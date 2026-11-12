@@ -1,5 +1,5 @@
-# ruri-neutralized-embed
-cl-nagoya/ruri-v3-310mのinput embeddingをdebiasすることで埋め込みを変化させる
+# debias ruri-v3-310m
+* cl-nagoya/ruri-v3-310mのinput embeddingをdebiasすることで埋め込みを変化させる
 
 ```sh
 python ruri-v3-310m_gender_pairs.py
